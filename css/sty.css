@@ -1,0 +1,13 @@
+.box{ border: 2px solid rgba(57, 100, 7, 0.527);
+width: 100px;
+height: 70px;
+background-color: blue;}
+
+
+.container{ border: 2px solid red;
+width: 700px;
+height: 500px;
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: flex-end;}

@@ -1,0 +1,151 @@
+/* p {
+  color: black;
+  background-color: darkred;
+  font-size: 17px;
+  border: 10px solid chocolate  ;
+  /* padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px; */
+  /* padding: 20px 20px 20px 5px;
+  margin: 15px 20px 20px 15px; */
+  /* margin-top: 15px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px; */
+  /* width: 80%;
+  height: 100%; */
+ /* border-radius: 100px; */
+ /* box-shadow: 10px 15px 10px black ;
+ ;
+ overflow: hidden; */
+/* } */ */
+
+#imageone{
+  height: 100%;
+  width: 80%;
+}
+
+/* tr{
+  color: crimson; background-color: indigo;
+  font-size: 16px; border: 10px solid gold;
+} */
+
+.container{
+  color: green; background-color: red;
+}
+
+/* tr{ background-color: blueviolet; color: black;} */
+
+th{background-color: coral; color: black;} 
+
+/* td{background-color:rgb(255, 136, 0); color: darkslategrey;} */
+#td{
+  background-color:green; 
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+ #mypix { 
+  background-color: rgb(31, 29, 29);
+  border: 100% solid rgb(101, 226, 43) ; 
+  height: 100%;
+  padding: 15px 15px 15px 15px;
+  width: 80%;
+}
+#element {
+  color: turquoise;
+  background-color: rgb(112, 165, 42);
+  border: 15px solid indigo;
+}
+.myclass {
+  color: forestgreen;
+  background-color: indigo;
+  font-size: 19px;
+}
+#element2 {
+  color: black;
+  background-color: mediumslateblue;
+}
+.myclasstwop {
+  color: black;
+  background-color: firebrick;
+  font-size: 18px;
+}
+.mylist li:nth-child(odd) {
+  color: aqua;
+  background-color: black;
+}
+#paragraphone {
+  color: maroon;
+  background-color: lightsteelblue;
+  font-size: 17px;
+}
+#paragraphtwo {
+  color: gold;
+  background-color: brown;
+  font-size: 17px;
+}
+#paragraphthree {
+  color: seagreen;
+  background-color: palegoldenrod;
+  font-size: 17px;
+}
+#paragraphfour {
+  color: chocolate;
+  background-color: rgb(0, 238, 255);
+  font-size: 17px;
+}
+#paragraphfive {
+  color: rgb(255, 136, 0);
+  background-color: black;
+  font-size: 17px;
+}
+#paragraphsev {
+  color: darkgreen;
+  background-color: gray;
+  font-size: 17px;
+}
+#paragrapheig {
+  color: cornflowerblue;
+  background-color: palevioletred;
+  font-size: 17px;
+}
+#paragraphnin {
+  color: pink;
+  background-color: darkblue;
+  font-size: 17px;
+}
+#paragraphten {
+  color: darkred;
+  background-color: darkorange;
+  font-size: 17px;
+}
+
+.abox {
+  border:3px solid yellow;
+  margin-top: 10px;
+  height: 100px;
+  width: 300px;
+  box-shadow: 10px 10px 10px red
+}
+
+.boxx{
+  border: 4px dotted blue;
+
+
+}
+
+
+
+
+
+
+
+
